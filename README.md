@@ -13,7 +13,7 @@ Welcome to my portfolio! I am a B.Sc. Statistics graduate specializing in turnin
 
 ## 🚀 Projects
 
-### 📊 1. Student Screen Time & Academic Performance Analysis
+### 📊 1. A Study on the DOUBLE EDGED WORLD OF ONLINE AFFAIRS AMONG STUDENTS
 * **Core Tools:** MS Excel, R, Statistical Inference
 * **Status:** 🛠️ *In Progress (Uploading Data & Refining Models)*
 * **Objective:** Evaluating the statistical correlation between student digital habits, sleep quality, and exam percentages using ANOVA and Chi-Square tests of independence.
