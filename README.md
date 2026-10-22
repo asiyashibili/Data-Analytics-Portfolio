@@ -1,6 +1,6 @@
 # Asiya B | Data Analytics Portfolio
 
-📍 Trivandrum, Kerala | ✉️ [Email](mailto:asiyashibili05@gmail.com) | 💻 [GitHub](https://github.com/asiyashibili)
+📍 Trivandrum, Kerala | ✉️ [Email](mailto:asiyashibili05@gmail.com) | 💻 [GitHub](https://github.com/asiyashibili) | 🔗 [LinkedIn](https://www.linkedin.com/in/asiya-b-a964222b8/)
 
 Welcome to my data analytics portfolio! I am a B.Sc. Statistics graduate interested in data analytics and business intelligence. I use Python, SQL, Power BI, Tableau, R, and Excel to explore datasets, analyze trends, build visualizations, and communicate data-driven insights.
 
@@ -40,7 +40,7 @@ This portfolio showcases my academic work, exploratory data analysis, dashboards
 
 **Key findings:** Electronics recorded the highest revenue among the product categories, and May 2023 had the highest monthly sales in the dataset.
 
-🔗 [View Project on GitHub](https://github.com/asiyashibili/retail-sales-eda-visualization)
+🔗 [View EDA & Visualization Repository](https://github.com/asiyashibili/EDA-Visualization)
 
 ### 3. 📈 Interactive Business Intelligence Dashboard
 
@@ -50,16 +50,16 @@ This portfolio showcases my academic work, exploratory data analysis, dashboards
 - Organized charts and dashboard elements to make comparisons and trends easier to explore.
 - Practised dashboard design and business-focused data presentation.
 
-🔗 [View Project on GitHub](https://github.com/asiyashibili)
+🔗 [View Power BI Project on GitHub](https://github.com/asiyashibili/power-bi-data-analysis)
 
-### 4. 📊 Tableau Data Visualization Project
+### 4. 📊 Tableau Sales Performance Dashboard
 
 **Tools:** Tableau
 
-- Created visualizations and a dashboard to explore data and present findings visually.
+- Created visualizations and a dashboard to explore sales data and present findings visually.
 - Practised chart selection, dashboard layout, and communicating insights through interactive visual analysis.
 
-🔗 [View Project on GitHub](https://github.com/asiyashibili)
+🔗 [View Tableau Project on GitHub](https://github.com/asiyashibili/Sales-Performance-Dashboard)
 
 ### 5. 🤖 Delivery Time Prediction Using Machine Learning
 
@@ -77,11 +77,11 @@ This portfolio showcases my academic work, exploratory data analysis, dashboards
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Data Visualization Libraries
 
-- Completed a collection of analytical tasks involving retail sales, customer segmentation, data cleaning, sentiment analysis, house-price prediction, classification, fraud detection, and app-market analysis.
+- Worked on analytical tasks involving retail sales, customer segmentation, data cleaning, sentiment analysis, house-price prediction, classification, fraud detection, and app-market analysis.
 - Practised exploratory data analysis, feature engineering, visualization, regression, clustering, and classification.
 - Evaluated models using appropriate performance metrics.
 
-🔗 [Explore My GitHub Repositories](https://github.com/asiyashibili?tab=repositories)
+🔗 [View Data Analysis & Machine Learning Repository](https://github.com/asiyashibili/Data-Analysis-and-Machine-Learning)
 
 ---
 
@@ -106,5 +106,6 @@ Final CGPA: **7.19/10**
 
 - **Email:** [asiyashibili05@gmail.com](mailto:asiyashibili05@gmail.com)
 - **GitHub:** [asiyashibili](https://github.com/asiyashibili)
+- **LinkedIn:** [Asiya B](https://www.linkedin.com/in/asiya-b-a964222b8/)
 
 I am interested in entry-level opportunities in **Data Analytics and Business Analytics**, where I can apply my statistical knowledge and continue developing practical analytical skills.
