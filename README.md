@@ -1,111 +1,137 @@
 # Asiya B | Data Analytics Portfolio
 
-📍 Trivandrum, Kerala | ✉️ [Email](mailto:asiyashibili05@gmail.com) | 💻 [GitHub](https://github.com/asiyashibili) | 🔗 [LinkedIn](https://www.linkedin.com/in/asiya-b-a964222b8/)
+📍 Trivandrum, Kerala, India  
+📧 [Email](mailto:asiyashibili05@gmail.com) · 💻 [GitHub](https://github.com/asiyashibili) · 🔗 [LinkedIn](https://www.linkedin.com/in/asiya-b-a964222b8/)
 
-Welcome to my data analytics portfolio! I am a B.Sc. Statistics graduate interested in data analytics and business intelligence. I use Python, SQL, Power BI, Tableau, R, and Excel to explore datasets, analyze trends, build visualizations, and communicate data-driven insights.
+## About Me
 
-This portfolio showcases my academic work, exploratory data analysis, dashboards, and machine learning projects.
+I am a **B.Sc. Statistics graduate from the University of Kerala**, interested in data analytics, business intelligence, and data-driven problem-solving.
+
+My background in statistics helps me approach data with an analytical mindset. I use Python, Pandas, NumPy, R, Excel, Power BI, and Tableau to explore datasets, perform statistical analysis, identify patterns, and communicate findings through visualizations and dashboards.
+
+Through academic projects, exploratory data analysis, dashboard development, and machine learning projects, I am building practical skills to solve analytical problems and turn data into meaningful insights.
+
+**Career interests:** Data Analyst · Business Analyst · Business Intelligence Analyst
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-- **Programming & Data Analysis:** Python, Pandas, NumPy, R
-- **Data Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn
+- **Programming:** Python, R
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning
+- **Data Visualization:** Matplotlib, Seaborn
+- **Business Intelligence:** Power BI, Tableau
 - **Databases:** SQL — currently learning
 - **Statistics:** Descriptive Statistics, Hypothesis Testing, ANOVA, Chi-Square Tests, Regression Analysis
-- **Other Tools:** Microsoft Excel
+- **Other Tools:** Microsoft Excel, Git, GitHub
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-### 1. 📊 Student Screen Time Analysis
-
-**Tools:** R, Microsoft Excel, Statistical Analysis
-
-- Conducted a statistical study on students' online activities and their relationship with aspects of daily life.
-- Applied ANOVA and Chi-Square tests to examine group differences and associations between categorical variables.
-- Explored topics including online habits, time management, mental health, and cyber-fraud awareness.
-
-🔗 [View Project on GitHub](https://github.com/asiyashibili/student-screen-time-analysis)
-
-### 2. 🛒 Retail Sales Exploratory Data Analysis
-
-**Tools:** Python, Pandas, Matplotlib, Seaborn
-
-- Explored a retail transaction dataset containing 1,000 records and 9 columns.
-- Examined customer demographics, product categories, transaction amounts, and sales trends.
-- Used data aggregation and visualizations to compare category revenue, gender-based sales, and monthly and quarterly performance.
-
-**Key findings:** Electronics recorded the highest revenue among the product categories, and May 2023 had the highest monthly sales in the dataset.
-
-🔗 [View EDA & Visualization Repository](https://github.com/asiyashibili/EDA-Visualization)
-
-### 3. 📈 Interactive Business Intelligence Dashboard
+### 1. Power BI — Business Intelligence Dashboard
 
 **Tools:** Power BI
 
 - Developed an interactive dashboard to present business data through visualizations and key performance indicators.
-- Organized charts and dashboard elements to make comparisons and trends easier to explore.
-- Practised dashboard design and business-focused data presentation.
+- Organized dashboard visuals to support comparisons and make patterns in the data easier to explore.
+- Applied dashboard design principles to communicate business information in a visual format.
 
-🔗 [View Power BI Project on GitHub](https://github.com/asiyashibili/power-bi-data-analysis)
+🔗 [Explore the Power BI Project](https://github.com/asiyashibili/power-bi-data-analysis)
 
-### 4. 📊 Tableau Sales Performance Dashboard
+### 2. Tableau — Sales Performance Dashboard
 
 **Tools:** Tableau
 
-- Created visualizations and a dashboard to explore sales data and present findings visually.
-- Practised chart selection, dashboard layout, and communicating insights through interactive visual analysis.
+- Built a sales performance dashboard to explore sales data through visualizations.
+- Used charts and dashboard layout to present information in an accessible, structured format.
+- Practised visual analysis and communicating sales-related information through a dashboard.
 
-🔗 [View Tableau Project on GitHub](https://github.com/asiyashibili/Sales-Performance-Dashboard)
+🔗 [Explore the Tableau Project](https://github.com/asiyashibili/Sales-Performance-Dashboard)
 
-### 5. 🤖 Delivery Time Prediction Using Machine Learning
+### 3. Retail Sales — Exploratory Data Analysis
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+- Explored a retail transaction dataset containing 1,000 records and 9 columns.
+- Analyzed customer demographics, product categories, transaction amounts, and sales trends.
+- Used data aggregation and visualizations to compare product-category revenue, gender-based sales, and monthly and quarterly performance.
+
+**Key findings:**
+- Electronics generated the highest revenue among the product categories.
+- May 2023 recorded the highest monthly sales in the dataset.
+
+🔗 [Explore the EDA & Visualization Repository](https://github.com/asiyashibili/EDA-Visualization)
+
+### 4. Student Screen Time Analysis — Statistical Study
+
+**Tools:** R, Microsoft Excel, Statistical Analysis
+
+- Conducted an academic study exploring students' online activities and their relationships with aspects of daily life.
+- Applied ANOVA and Chi-Square tests to examine group differences and associations between categorical variables.
+- Investigated topics including online habits, time management, mental health, and cyber-fraud awareness.
+
+🔗 [Explore the Student Screen Time Analysis](https://github.com/asiyashibili/student-screen-time-analysis)
+
+### 5. Delivery Time Prediction Using Machine Learning
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn
 
-- Generated a synthetic logistics dataset containing 1,200 records to explore delivery-time prediction.
+- Generated a synthetic logistics dataset containing 1,200 records for a delivery-time prediction task.
 - Trained and evaluated Linear Regression and a tuned Random Forest regression model.
 - Used train-test splitting, GridSearchCV, and regression evaluation metrics to compare model performance.
 
-**Model comparison:** Linear Regression achieved an MAE of approximately 3.00 hours, RMSE of 3.79 hours, and R² of 0.984 on the test set. It outperformed the tuned Random Forest on this synthetic dataset.
+**Model evaluation on the test set:**
 
-🔗 [View Project on GitHub](https://github.com/asiyashibili/delivery-time-prediction-ml)
+| Metric | Linear Regression |
+|---|---:|
+| MAE | Approximately 3.00 hours |
+| RMSE | Approximately 3.79 hours |
+| R² | Approximately 0.984 |
 
-### 6. 📉 Data Analysis & Machine Learning Projects
+Linear Regression outperformed the tuned Random Forest on this synthetic dataset. These results demonstrate the models' performance on the generated data and should not be interpreted as evidence of equivalent accuracy on real-world deliveries.
+
+🔗 [Explore the Machine Learning Project](https://github.com/asiyashibili/delivery-time-prediction-ml)
+
+### 6. Data Analysis & Machine Learning Projects
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Data Visualization Libraries
 
 - Worked on analytical tasks involving retail sales, customer segmentation, data cleaning, sentiment analysis, house-price prediction, classification, fraud detection, and app-market analysis.
-- Practised exploratory data analysis, feature engineering, visualization, regression, clustering, and classification.
-- Evaluated models using appropriate performance metrics.
+- Practised exploratory data analysis, feature engineering, data visualization, regression, clustering, and classification.
+- Used appropriate evaluation metrics to assess machine learning models.
 
-🔗 [View Data Analysis & Machine Learning Repository](https://github.com/asiyashibili/Data-Analysis-and-Machine-Learning)
+🔗 [Explore the Data Analysis & Machine Learning Repository](https://github.com/asiyashibili/Data-Analysis-and-Machine-Learning)
 
 ---
 
-## 🎓 Education
+## Education
 
-**B.Sc. Statistics**  
+**Bachelor of Science (B.Sc.) in Statistics**  
 University of Kerala  
-Final CGPA: **7.19/10**
+**Final CGPA:** 7.19/10 · Grade B
 
 ---
 
-## 🎯 Current Learning Goals
+## Current Learning Goals
 
-- Strengthening SQL skills for data analysis
-- Building end-to-end projects combining data cleaning, SQL, and visualization
-- Improving Power BI and Tableau dashboard development
-- Expanding practical experience in statistical analysis and machine learning
+- Strengthening SQL skills for querying and analyzing data.
+- Building end-to-end analytics projects that combine data cleaning, SQL, and visualization.
+- Improving dashboard development and analytical storytelling with Power BI and Tableau.
+- Expanding practical experience in statistical analysis and machine learning.
 
 ---
 
-## 📫 Contact
+## Career Interests
+
+I am seeking entry-level opportunities in **Data Analytics, Business Analytics, and Business Intelligence** where I can apply my statistical background, analytical skills, and project experience while continuing to learn and grow.
+
+---
+
+## Contact
 
 - **Email:** [asiyashibili05@gmail.com](mailto:asiyashibili05@gmail.com)
-- **GitHub:** [asiyashibili](https://github.com/asiyashibili)
 - **LinkedIn:** [Asiya B](https://www.linkedin.com/in/asiya-b-a964222b8/)
+- **GitHub:** [asiyashibili](https://github.com/asiyashibili)
 
-I am interested in entry-level opportunities in **Data Analytics and Business Analytics**, where I can apply my statistical knowledge and continue developing practical analytical skills.
+Thank you for visiting my portfolio!
